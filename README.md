@@ -14,4 +14,6 @@ A Google Chrome extension that adds a Download VRCA button to Avatar pages on th
 6. Select the extracted folder
 7. Installation complete → Visit any Avatar page on the official VRChat website to see the **Download VRCA** button
 
+**If the button doesn't appear after installation, try refreshing the page.**
+
 <img src="images/img_2026-02-27_04-27-13.png" width="800">
