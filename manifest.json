@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "VRChat VRCA Downloader",
+  "version": "1.0",
+  "description": "Download the VRCA file of the Avatar model under your own VRChat account",
+  "author": "PuddingKC",
+  "permissions": [
+    "activeTab",
+    "cookies",
+    "downloads"
+  ],
+  "host_permissions": [
+    "https://vrchat.com/*",
+    "https://api.vrchat.cloud/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://vrchat.com/home/avatar/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

@@ -1,0 +1,16 @@
+*.pem
+
+*.crx
+*.zip
+
+temp-package/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
