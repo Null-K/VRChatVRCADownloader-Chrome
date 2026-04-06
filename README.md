@@ -29,8 +29,8 @@ By using this tool, you agree that:
 - You are solely responsible for how you use this tool and any consequences arising from its use.
 - The developer does **not encourage, support, or condone** any form of asset ripping, unauthorized distribution, or violation of platform rules.
 
-This tool does **not collect, store, or transmit any personal data, account credentials, or downloaded content**.
-It does **not modify your account, assets, or any data on VRChat servers**.
+This tool does **not collect, store, or transmit any personal data, account credentials, or downloaded content**.  
+It does **not modify your account, assets, or any data on VRChat servers**.  
 All operations are performed locally within your browser environment.
 
 This tool interacts with the official VRChat website, but is **not affiliated with or endorsed by VRChat Inc**.
