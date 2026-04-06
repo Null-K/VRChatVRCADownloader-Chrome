@@ -2,6 +2,8 @@
 > **This tool is designed to recover your lost assets.**  
 **Please don't ask, or redesign this tool, to rip assets that aren't your own!**
 
+> 对于中国用户，可以添加官方 QQ 群 1047423396 进行交流反馈。
+
 # VRChatVRCADownloader-Chrome
 A Google Chrome extension that adds a Download VRCA button to Avatar pages on the official VRChat website.
 
